@@ -8,7 +8,7 @@
         <meta name="author" content="MeloThemes">
         <meta name="keywords" content="pestguard, responsive HTML, template, bootstrap">
         <meta name="description" content=" Pestguard is responsive HTML template for Pest services company, build on latest bootstrap framework.">
-        <title>Efectivos en Plagas</title>
+        <title>Efectivos en Control de Plagas</title>
         <link rel="shortcut icon" href="images/favicon.ico" /> 
         <!-- REVOLUTION STYLE SHEETS -->
         <link rel="stylesheet" type="text/css" href="{{ asset('revolution/css/settings.css') }}">
