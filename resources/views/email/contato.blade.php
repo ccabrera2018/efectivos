@@ -11,7 +11,7 @@
 	<p><strong>GRACIAS POR CONFIAR EN NOSOSTROS #</strong></p>
 	<p><strong>CAMBIE LA SALIDA DEL TITULO</strong></p>
 	<p><strong>CAMBIE LA SALIDA DEL TITULO de prueba de rama</strong></p>
-	<p><strong>Como configural el apex</strong></p>
+	<p><strong>PRUEBA DE RAMA</strong></p>
 
 
 </body>
