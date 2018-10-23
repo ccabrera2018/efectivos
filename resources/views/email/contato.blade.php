@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-
+   <p><strong>ESTA ES LA RAMA MASTER</strong></p>
 	<p><strong>{!! $name  !!}</strong></p>
 	<p><strong>{!! $telefono  !!}</strong></p>
 	<p><strong>{!! $email  !!}</strong></p>
