@@ -10,6 +10,7 @@
 	<p><strong>{!! $email  !!}</strong></p>
 	<p><strong>GRACIAS POR CONFIAR EN NOSOSTROS #</strong></p>
 	<p><strong>CAMBIE LA SALIDA DEL TITULO</strong></p>
+	<p><strong>CAMBIE LA SALIDA DEL TITULO de prueba de rama</strong></p>
 
 </body>
 </html>
