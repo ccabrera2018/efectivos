@@ -13,6 +13,7 @@
 	<p><strong>CAMBIE LA SALIDA DEL TITULO de prueba de rama</strong></p>
 	<p><strong>PRUEBA DE RAMA</strong></p>
 	<p><strong>REPOSITORIO REMOTO COMO SE AGREGA</strong></p>
+	<p><strong>GIT CAMBIOS  LOCALES </strong></p>
 
 
 </body>
